@@ -1,4 +1,7 @@
-/*
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/14888
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+
 #include <stdio.h>
 
 int n; //개수 입력
@@ -52,34 +55,3 @@ int main () {
 
     return 0;
 }
-*/
-
-
-/*
-#include <stdio.h>
-
-int n;
-int a[100];
-int plus, min, mul, div;
-
-void cal ( int plus, int min, int mul, int div) {
-    int ret;
-}
-
-int main () {
-
-    scanf("%d", &n);//수의 개수
-    for (int i = 0; i < n; ++i){
-        scanf("%d", &a);//수열
-    }
-    scanf("%d %d %d %d", &plus, &min, &mul, &div);
-
-    cal(plus, min, mul, div);
-
-    int ret;
-    printf("%d", ret);
-
-
-    return 0;
-}
- */
