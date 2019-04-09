@@ -1,4 +1,7 @@
-/*
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/13460
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+
 #include <stdio.h>
 #include <queue>
 #include <algorithm>
@@ -113,4 +116,4 @@ int main()
 
     return 0;
 }
-*/
+
