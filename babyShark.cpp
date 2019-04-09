@@ -1,3 +1,7 @@
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/16236
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+
 // N*M 공간
 //한칸에는 물고기 최대 1마리
 // 최초 아기상어 크기 = 2
@@ -11,7 +15,7 @@
 //공간 2<= N <= 20 (첫줄)
 //공간의 상태 0,1,2,3,4,5,6,9
 //0은 빈칸, 1-6은 물고기 크기, 9는 아기상어 위치
-/*
+
 #include <stdio.h>
 #include <queue>
 using namespace std;
@@ -100,34 +104,3 @@ int main()
 
     return 0;
 }
- */
-
-/*
-#include <stdio.h>
-
-int n;
-int map[20][20];
-
-
-void trip() {
-
-}
-
-int main () {
-
-
-    scanf("%d", n);
-
-    for ( int i =0; i < n; ++i) {
-        for (int j = 0; j < n; ++i) {
-            scanf("%d", &map[i][j]);
-        }
-    }
-
-
-    int time;
-    printf("%d", time);
-    return 0;
-}
-
- */
