@@ -1,4 +1,7 @@
-/*
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/14500
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+
 #include <stdio.h>
 
 int n, m;
@@ -169,4 +172,4 @@ int main () {
     return 0;
 }
 
- */
+ 
