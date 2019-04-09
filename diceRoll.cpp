@@ -1,4 +1,7 @@
-/*
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/14499
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
+
 #include <stdio.h>
 
 int n, m, sy, sx, k;
@@ -89,97 +92,3 @@ int main()
 
     return 0;
 }
-*/
-/*
-
-#include <stdio.h>
-
-int n, m, sx, sy, k;
-int map[20][20];
-int dice[6];
-
-const int dx[] = { 0, 0, -1, +1};
-const int dy[] = { +1, -1, 0, 0};
-
-
-void move_dice(int dir) {
-    int ndice[6];
-
-
-    if (dir == 1){
-        ndice[0] = dice[0];
-        ndice[5] = dice[1];
-        ndice[2] = dice[2];
-        ndice[4] = dice[3];
-        ndice[1] = dice[4];
-        ndice[3] = dice[5];
-    }
-    if (dir == 2){
-        ndice[0] = dice[0];
-        ndice[4] = dice[1];
-        ndice[2] = dice[2];
-        ndice[5] = dice[3];
-        ndice[3] = dice[4];
-        ndice[1] = dice[5];
-    }
-    if (dir == 3) {
-        ndice[3] = dice[0];
-        ndice[0] = dice[1];
-        ndice[1] = dice[2];
-        ndice[2] = dice[3];
-        ndice[4] = dice[4];
-        ndice[5] = dice[5];
-    }
-    else {
-        ndice[1] = dice[0];
-        ndice[2] = dice[1];
-        ndice[3] = dice[2];
-        ndice[0] = dice[3];
-        ndice[4] = dice[4];
-        ndice[5] = dice[5];
-    }
-
-    for(int i=0; i < 6; ++i) {
-        dice[i] = ndice[i];
-    }
-}
-
-int main() {
-
-    scanf("%d %d %d %d %d", &n, &m, &sx, &sy, &k);
-    for (int i = 0; i < n; ++i) {
-        for (int j =0; j < m; ++j) {
-            scanf("%d", &map[i][j]);
-        }
-    }
-
-    int dir;
-
-    for (int i =0; i < k; ++i) {
-        scanf("%d", &dir);
-        --dir;
-        int nx = sx + dx[dir];
-        int ny = sy + dy[dir];
-        if (nx < 0 || nx >= n || ny < 0 || ny >= m) {
-            continue;
-        }
-
-        move_dice(dir);
-
-        if (map[nx][ny] == 0) {
-            map[nx][ny] = dice[3];
-        } else {
-            dice[3] = map[nx][ny];
-            map[nx][ny] = 0;
-        }
-
-        sx = nx;
-        sy = ny;
-
-        printf("%d\n", dice[1]);
-    }
-
-    return 0;
-}
-
-*/
