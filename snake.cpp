@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 
 int n, k, m;
@@ -71,4 +71,3 @@ int main() {
     return 0;
 }
 
-*/
