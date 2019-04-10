@@ -3,8 +3,6 @@
 //link URL: https://www.acmicpc.net/problem/1547
 */
 
-/*
-
 #include <stdio.h>
 int cup[4] = {0,1,2,3};
 
@@ -39,4 +37,3 @@ int main () {
     return 0;
 }
 
-*/
