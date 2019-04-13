@@ -1,5 +1,6 @@
-//https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD
-/*
+// From 'SW Expert Academy'
+//Problem URL: https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD
+
 #include <stdio.h>
 
 int n;
@@ -49,4 +50,3 @@ int main () {
 
     return 0;
 }
-*/
