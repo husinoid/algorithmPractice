@@ -1,4 +1,5 @@
-/*
+//quickSort Templete
+
 #include<stdio.h>
 //Prosto
 void QuickSort(int arr[], int left, int right) {
@@ -99,4 +100,3 @@ void quicksort(int arr[],int first,int last){
 
    }
 }
-*/
