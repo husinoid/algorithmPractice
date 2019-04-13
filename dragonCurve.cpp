@@ -1,4 +1,6 @@
-/*
+//site from 'BaekJoon'
+//link URL: https://www.acmicpc.net/problem/15685
+//Lecture URL: https://www.youtube.com/watch?v=EWzqP8KoCXA&list=PLdHw4xVmS1psZInw07xdgZmnQcIrXru8J&index=18
 
 #include <stdio.h>
 
@@ -52,4 +54,4 @@ int main () {
 
     return 0;
 }
- */
+ 
