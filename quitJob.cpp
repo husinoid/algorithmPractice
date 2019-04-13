@@ -1,16 +1,6 @@
-/*
- * 입력
-첫째 줄에 N (1 ≤ N ≤ 15)이 주어진다.
-둘째 줄부터 N개의 줄에 Ti와 Pi가 공백으로 구분되어서 주어지며, 1일부터 N일까지 순서대로 주어진다.
- (1 ≤ Ti ≤ 5, 1 ≤ Pi ≤ 1,000)
-출력
-첫째 줄에 백준이가 얻을 수 있는 최대 이익을 출력한다
+//site from 'BaekJoon'
+//link URL: https://www.acmicpc.net/problem/14501
 
- https://www.acmicpc.net/problem/14501
-
- */
-
-/*
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
@@ -43,5 +33,3 @@ int main () {
 
     return 0;
 }
-
- */
