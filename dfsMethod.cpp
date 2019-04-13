@@ -1,7 +1,7 @@
 
-
+//Research for general DFS Method
 //출처: https://ksj14.tistory.com/entry/깊이-우선-탐색-Depth-First-Search [:: ADVANCE ::]
-/*
+
 #include <stdio.h>
 
 int n;
@@ -41,4 +41,3 @@ int main(void)
 
     return 0;
 }
-*/
