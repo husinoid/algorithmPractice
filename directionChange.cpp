@@ -1,5 +1,6 @@
-//http://swlock.blogspot.com/2016/02/2-using-delta-search.html
-/*
+//site from 'BaekJoon'
+//link URL: http://swlock.blogspot.com/2016/02/2-using-delta-search.html
+
 #include <stdio.h>
 
 int array[5][5]={
@@ -25,4 +26,4 @@ int main()
     printf("%d\n",count1);
     return 0;
 }
- */
+ 
