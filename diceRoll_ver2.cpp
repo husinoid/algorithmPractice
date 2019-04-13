@@ -1,3 +1,6 @@
+//site from 'BaekJoon
+//link URL: https://www.acmicpc.net/problem/14499
+//Lecture from Youtube: https://www.youtube.com/channel/UC_KRcBNnFQoN6EsvG87H6cg
 
 #include <stdio.h>
 
