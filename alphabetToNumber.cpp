@@ -1,7 +1,6 @@
-//
-// Created by JONGHWA HONG on 2019-04-22.
-//
-/*
+//site from 'SW Expert Academy'
+//link URL:https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLGxKAzQDFAUq&categoryId=AV5QLGxKAzQDFAUq&categoryType=CODE
+
 #include <stdio.h>
 #include <iostream>
 using namespace std;
@@ -17,4 +16,4 @@ int main () {
     return 0;
 }
 
- */
+ 
