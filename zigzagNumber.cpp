@@ -1,8 +1,7 @@
-/*
 
- https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE
- */
-/*
+ //site from 'SW Expert Academy'
+//link URL:https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE
+
 #include <stdio.h>
 
 int main () {
@@ -26,4 +25,3 @@ int main () {
 
     return 0;
 }
- */
