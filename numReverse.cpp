@@ -1,7 +1,7 @@
-//
-//https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&&&
+//site from 'SW Expert Academy'
+//link URL:https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE&&&
 
-/*
+
 #include <stdio.h>
 
 int main () {
@@ -15,4 +15,4 @@ int main () {
 
     return 0;
 }
- */
+ 
