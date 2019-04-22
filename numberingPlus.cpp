@@ -1,7 +1,7 @@
-//
 // Created by JONGHWA HONG on 2019-04-22.
-//https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE
-/*
+//site from 'SW Expert Academy'
+//link URL:https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE
+
 #include <stdio.h>
 
 int main () {
@@ -18,4 +18,4 @@ int main () {
 
     return 0;
 }
- */
+ 
